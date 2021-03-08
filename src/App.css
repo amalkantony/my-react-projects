@@ -1,0 +1,16 @@
+:root{
+  --cl_orange         : #FF5917;
+  --cl_light_orange   : rgba(255,89,23,0.08);
+  --cl_light_grey     : rgba(245,245,246,1);
+}
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  position: relative;
+}
+
+
